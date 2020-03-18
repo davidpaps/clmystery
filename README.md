@@ -1,3 +1,11 @@
+# The Command Line Murder
+
+This was my very first experience coding, all through the command line! This was the first task to complete on the Makers Pre-Course, and involved navigating, creating , moving and copying files and searching through them to find the information you needed.
+
+It was a great first introduction into basic command line navigation, and to this day i still use what I learned in this project.  
+
+---
+
 The Command Line Murder
 ========================
 
